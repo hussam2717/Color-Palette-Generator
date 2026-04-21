@@ -19,3 +19,8 @@ JavaScript
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
+
+✨ Usage
+Click on Generate Palette button
+New colors will appear instantly
+Click on any HEX code to copy it
