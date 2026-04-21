@@ -8,3 +8,8 @@ Live Demo -
 📋 Copy HEX codes with one click
 💡 Clean and minimal UI
 ⚡ Fast and lightweight
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
