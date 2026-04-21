@@ -13,3 +13,9 @@ Live Demo -
 HTML5
 CSS3
 JavaScript
+
+📂 Project Structure
+📁 color-palette-generator
+ ┣ 📄 index.html
+ ┣ 📄 style.css
+ ┣ 📄 script.js
