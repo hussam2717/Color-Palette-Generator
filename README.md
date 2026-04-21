@@ -1,7 +1,7 @@
 # Color-Palette-Generator
 A simple and modern Color Palette Generator built using HTML, CSS, and JavaScript. Generate beautiful color combinations instantly with a single click.
 
-Live Demo - 
+Live Demo - https://hussam2717.github.io/Color-Palette-Generator/
 
 🚀 Features
 🎲 Generate random color palettes
