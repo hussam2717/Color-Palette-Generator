@@ -29,3 +29,9 @@ Click on any HEX code to copy it
 Export palette as image
 Save favorite palettes
 Add color formats (RGB, HSL)
+
+🤝 Contributing
+Feel free to fork this repo and improve it. Pull requests are welcome!
+
+
+
