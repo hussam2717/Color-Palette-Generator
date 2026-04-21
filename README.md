@@ -24,3 +24,8 @@ JavaScript
 Click on Generate Palette button
 New colors will appear instantly
 Click on any HEX code to copy it
+
+🎯 Future Improvements
+Export palette as image
+Save favorite palettes
+Add color formats (RGB, HSL)
